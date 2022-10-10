@@ -22,7 +22,7 @@ author: Aswin Suresh
 navbar-links:
   About Me: "aboutme"
   Projects: "researchpro"
-  Academics:
+  Academics: "academics"
   # Author's home: "https://aswinsuresh24.github.io"
 
 ################
