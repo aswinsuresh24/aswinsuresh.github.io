@@ -21,9 +21,9 @@ author: Aswin Suresh
 
 navbar-links:
   About Me: "aboutme"
-  Projects:
+  Projects: "researchpro"
   Academics:
-  Author's home: "https://aswinsuresh24.github.io"
+  # Author's home: "https://aswinsuresh24.github.io"
 
 ################
 # --- Logo --- #
